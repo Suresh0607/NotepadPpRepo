@@ -13,7 +13,7 @@
 
 3.   Copy the Get.Software folder onto your workstation into the PowerShell Module path `%ProgramFiles%\WindowsPowerShell\Modules\`.
 
-5.   Get.Software Module is used to fectch the Latest Notepad++ Uri & Version
+5.   Get.Software Module is used to fetch the Latest Notepad++ Uri & Version
 
 4.   All Notepad++ need to be closed.
 
