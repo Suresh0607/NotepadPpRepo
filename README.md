@@ -11,7 +11,7 @@
 	
 2.   Operating System is Windows 10 
 
-3.   Copy the Get.Software folder onto your workstation into the PowerShell Module path `%ProgramFiles%\WindowsPowerShell\Modules\`.
+3.   Copy the Get.Software folder onto your workstation into the PowerShell Module path `%ProgramFiles%\WindowsPowerShell     \Modules\`
 
 5.   Get.Software Module is used to fetch the Latest Notepad++ Uri & Version
 
