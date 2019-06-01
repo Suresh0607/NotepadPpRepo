@@ -4,10 +4,10 @@
 
 ## CONFIG
 
-1.  `Path` value is where the git clone https://github.com/Suresh0607/NotedPadPlusPlus.git is done.
+1.  `Path` value is where the git clone `https://github.com/Suresh0607/NotepadPpRepo.git` is done.
      Example cd C:\git Note : This can be changed
 	`Path` = "C:\git"
-	 Then do Git Clone https://github.com/Suresh0607/NotedPadPlusPlus.git
+	 Then do Git Clone `https://github.com/Suresh0607/NotepadPpRepo.git`
 	
 2.   Operating System is Windows 10 
 
