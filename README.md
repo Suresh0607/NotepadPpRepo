@@ -42,10 +42,10 @@
 
 
 5. Update the varilables in the command and Run 
-		& '`Path`\InstallSoftware.ps1' NotepadPlusPlusExe_Location NotepadPpInstalltionPath
+		& '`Path`\NotepadPpRepo\InstallSoftware.ps1' NotepadPlusPlusExe_Location NotepadPpInstalltionPath
     
        Example:
-        & 'C:\git\InstallSoftware.ps1' 'C:\NotepadPpExe_Location\' 'C:\Program Files\'
+        & 'C:\git\NotepadPpRepo\InstallSoftware.ps1' 'C:\NotepadPpExe_Location\' 'C:\Program Files\'
 
 
 ## UnInstall Notepad++ Software
@@ -54,8 +54,8 @@
     For Example `C:\Program Files\` 
 
 6.  Update the varilables in the command and Run 
-        & '`Path`\UnistallSoftware.ps1' NotepadPpInstalltionPath 
+        & '`Path`\NotepadPpRepo\UnistallSoftware.ps1' NotepadPpInstalltionPath 
 
     	Example:
-    	& 'C:\git\UnistallSoftware.ps1' 'C:\Program Files\'
+    	& 'C:\git\NotepadPpRepo\UnistallSoftware.ps1' 'C:\Program Files\'
 
