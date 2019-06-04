@@ -33,8 +33,10 @@
 ## Install Notepad++ Software LastesVersion
 
 4. For `NotepadPpExe_Location`  Provide any location to install the NotePadPlusPlus_x64
-
-   For Example `C:\NotepadPpExe_Location\`	
+   
+   Create  NotepadPpExe_Location is any Location and Provide the Path.
+   For Example `C:\NotepadPpExe_Location\`
+   
 
 5. For `NotepadPpInstalltionPath`  provide path where Notepad++ is installed in the system
    
